@@ -10,7 +10,7 @@
     tools:context="ice_pbru.chusang.apisit.ice_datadase.MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
 </RelativeLayout>
